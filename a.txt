@@ -1,1 +1,3 @@
-ndakdkahk
+if(2==1){
+aa==2;
+}
